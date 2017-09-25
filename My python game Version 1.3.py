@@ -2,7 +2,7 @@ import random
 
 hh = random.randint(1,25)
         
-print("Welcome to my game!")
+print("Welcome to my fighting game!")
 
 enemyhealth = 100
 while enemyhealth > 0:
